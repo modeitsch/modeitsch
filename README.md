@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @modeitsch
 - 👀 I’m interested in coding for breakfast coding for lunch... playing guitar for brunch
 - 🌱 I’m currently learning computer science
-- 📫 How to reach me 0hdlorv10@relay.firefox.com
+- 📫 How to reach me moshedeitsch at outlook.com
 
 <!---
 modeitsch/modeitsch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
