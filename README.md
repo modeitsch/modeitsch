@@ -39,6 +39,14 @@ const moshe = {
   <img src="https://skillicons.dev/icons?i=ts,js,react,svelte,nodejs,html,css,git,github,vscode&perline=10" alt="TypeScript, JavaScript, React, Svelte, Node.js, HTML, CSS, Git, GitHub, and VS Code" />
 </p>
 
+## Open Source Contributions
+
+I like contributing to libraries that people actually use. Recently I've been contributing to [Hebcal ES6](https://github.com/hebcal/hebcal-es6), a JavaScript Jewish calendar library:
+
+- Added `isFastDay()` and `isAveilut()` helpers with focused calendar coverage. [PR #724](https://github.com/hebcal/hebcal-es6/pull/724)
+- Classified Chanukah candle events as minor holidays in category output. [PR #729](https://github.com/hebcal/hebcal-es6/pull/729)
+- Improved documentation for holiday Shabbat title lookup and leyning guidance. [PR #728](https://github.com/hebcal/hebcal-es6/pull/728)
+
 ## Featured Work
 
 <table>
@@ -59,9 +67,9 @@ const moshe = {
 ## GitHub At A Glance
 
 - [26 public repositories](https://github.com/modeitsch?tab=repositories)
+- [Hebcal ES6 library contributions](https://github.com/hebcal/hebcal-es6/pulls?q=is%3Apr+author%3Amodeitsch)
 - [Hebrew React documentation work](https://github.com/modeitsch/he.reactjs.org)
 - [Personal site source](https://github.com/modeitsch/modeitsch.github.io)
-- [Stars and saved projects](https://github.com/modeitsch?tab=stars)
 
 ## Open To
 
